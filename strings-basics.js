@@ -9,14 +9,14 @@ const myString = ' Hello level up students!'
 const newString = myString.split(' ')
 
  
-// console.log(message)
-// console.log(messageToLowerCase)
-// console.log(messageToUpperCase)
-// console.log(messageNoSpaces)
-// console.log(newMessage)
-// console.log(withSubString)
-// console.log(messageNoSpaces.startsWith('Hello'))
-// console.log(messageNoSpaces.endsWith('students'))
-// console.log(message.includes('Javascript'))
-// console.log(mySchool.indexOf('Code'))
-// console.log(newString.reverse());
+console.log(message)
+console.log(messageToLowerCase)
+console.log(messageToUpperCase)
+console.log(messageNoSpaces)
+console.log(newMessage)
+console.log(withSubString)
+console.log(messageNoSpaces.startsWith('Hello'))
+console.log(messageNoSpaces.endsWith('students'))
+console.log(message.includes('Javascript'))
+console.log(mySchool.indexOf('Code'))
+console.log(newString.reverse());
